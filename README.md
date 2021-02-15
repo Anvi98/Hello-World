@@ -13,8 +13,8 @@
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/Anvi98)
-- Twitter: [@twitterhandle](https://twitter.com/anvi_al)
+- GitHub: [@Anvi98](https://github.com/Anvi98)
+- Twitter: [@anvi_al](https://twitter.com/anvi_al)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/anvi-alex-eponon/)
 
 ## 🤝 Coding Partner
